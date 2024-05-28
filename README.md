@@ -3,7 +3,7 @@
 
 Hello ! I'm Gabriele Scognamiglio a Junior Full-stack Developer from Italy 💻. I've always been passionate about the tech world and always looking for new challenges.
 
-🌟 values : Collaboration | Reliability | Problem solving
+- 🌟 **values** : Collaboration | Reliability | Problem solving
 
 <h2 align="left"></h2>
 
